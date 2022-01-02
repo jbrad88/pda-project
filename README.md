@@ -1,7 +1,15 @@
 # Programming for data analysis project 2021
 
 ## Introduction
-We have been tasked with creating a web service that uses machine learning to predict winder turbine power output from wind speed values, as in the data set provided ("powerproduction.csv").
+This GitHub repository contain my submission for my project for Programming for Data Analysis 2021. Within this repository, you will find
+a Jupyter notebook titled "pda-project.ipynb" which can be run as outlined under "General Usage Information" below. The purpose of the code 
+contained within is to meet the following objectives:
+
+- Create a data set by simulating a real-world phenomeon, modeled and synthesised using Python. 
+- Choose a real world phenomenon that can be measured and for which at least 100 data points can be collected over at least four different variables.
+- Investigate the types of variables involved, their likely distributions and their relationships with each other.
+- Synthesis / simulate a data set as closely matching their properties as possible. 
+- Detail your research and implement the simulation in a Jupyter notebook - the data itself can simply be displated in an output
 
 ## Prerequisites
 Before you continue, make sure that you have met the following requirements:
